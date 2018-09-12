@@ -1,0 +1,14 @@
+
+
+Flask==1.0.2
+
+Jinja2==2.10
+
+py==1.6.0
+
+pylint==1.9.3
+pytest==3.8.0
+
+unity-lens-photos==1.0
+Werkzeug==0.14.1
+wrapt==1.10.11
